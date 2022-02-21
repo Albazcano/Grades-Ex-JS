@@ -13,6 +13,10 @@ Javascript
 
 >> npm install
 
+## Run tests
+
+>> npx jest
+
 ## Reto
 
 Pide una nota (número). Muestra la calificación según la nota:
