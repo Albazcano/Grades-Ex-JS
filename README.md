@@ -1,23 +1,7 @@
-# Grades-Ex-JS
-Ejercicio básico de Javascript
+# Ejercicios-basicos-JS
+Ejercicios básicos de Javascript
 
-## Stack
-HTML5
-Javascript
-
-## Pre-requirement
-
-- node.js & npm
-
-## Installation
-
->> npm install
-
-## Run tests
-
->> npx jest
-
-## Reto
+## Comenzando 🚀
 
 Pide una nota (número). Muestra la calificación según la nota:
 0-3: Muy deficiente
@@ -26,3 +10,20 @@ Pide una nota (número). Muestra la calificación según la nota:
 6-7: Bien
 7-9: Notable
 9-10: Sobresaliente
+
+### Pre-requisitos 📋
+
+node.js & npm
+
+### Instalación 🔧
+
+>> npm install
+
+## Stack 📌
+
+HTML5
+Javascript
+
+## Autores ✒️
+
+* **Alba Azcano** - *Trabajo y documentación* - [Albazcano](https://github.com/Albazcano)
